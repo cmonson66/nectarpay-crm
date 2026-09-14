@@ -1,0 +1,13 @@
+DELETE FROM public.email_click_events;
+DELETE FROM public.email_recipients;
+DELETE FROM public.email_campaigns;
+DELETE FROM public.commissions;
+DELETE FROM public.tasks;
+DELETE FROM public.activities;
+DELETE FROM public.contingent_placements;
+DELETE FROM public.deals;
+DELETE FROM public.messages;
+DELETE FROM public.calls;
+DELETE FROM public.campaigns;
+DELETE FROM public.devices;
+DELETE FROM public.leads;

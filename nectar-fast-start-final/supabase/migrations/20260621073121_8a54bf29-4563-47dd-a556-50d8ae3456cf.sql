@@ -1,1 +1,0 @@
-ALTER TYPE public.chain_kind ADD VALUE IF NOT EXISTS 'bsc';

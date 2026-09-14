@@ -1,1 +1,0 @@
-ALTER TABLE public.wallet_link_codes ADD COLUMN IF NOT EXISTS allow_new_wallet boolean NOT NULL DEFAULT false;

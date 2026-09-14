@@ -1,6 +1,0 @@
-ALTER TABLE public.invoices
-  ALTER COLUMN chain DROP NOT NULL,
-  ALTER COLUMN address DROP NOT NULL,
-  ALTER COLUMN crypto_amount DROP NOT NULL,
-  ALTER COLUMN rate DROP NOT NULL,
-  ALTER COLUMN derivation_index DROP NOT NULL;

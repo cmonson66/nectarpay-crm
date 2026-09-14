@@ -1,1 +1,0 @@
-ALTER TABLE public.stores ADD COLUMN IF NOT EXISTS preferred_evm_chain text NOT NULL DEFAULT 'base';

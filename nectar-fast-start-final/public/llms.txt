@@ -1,0 +1,26 @@
+# Nectar.Pay
+
+> Non-custodial crypto payment gateway for merchants. Accept BTC, TEXITcoin, and EVM stablecoins (USDC, USDT, PYUSD, DAI) direct to your own wallet — no custody, no per-transaction fees.
+
+Nectar.Pay is part of the Honest Money ecosystem. Merchants paste a public key (xpub/zpub or EVM address); customers pay; funds land in the merchant's wallet without an intermediary.
+
+## Pages
+
+- [Home](/): What Nectar.Pay is and how it works.
+- [Pricing](/pricing): Plans — free tier, $19 unlimited, $99 advanced.
+- [Manifesto](/manifesto): Why we built it and what we stand for.
+- [Investors](/investors): Why you can't invest, and why TEXITcoin matters.
+- [Integrations](/integrations): WooCommerce, SDK, and webhook tooling.
+- [WooCommerce plugin](/integrations/woocommerce): Drop-in WooCommerce gateway.
+- [Docs](/docs): Developer docs.
+- [Wallet setup](/docs/wallet-setup): Connect a wallet to your store.
+- [Compare](/compare): Nectar.Pay vs custodial gateways.
+- [Cash out](/cash-out): How to convert crypto to local currency.
+- [Where](/where): Live merchant heatmap.
+- [Terms](/terms): Terms of service.
+- [Privacy](/privacy): Privacy policy.
+
+## Optional
+
+- [Start](/start): Mobile-friendly merchant onboarding.
+- [Sign up](/signup): Full onboarding wizard.
